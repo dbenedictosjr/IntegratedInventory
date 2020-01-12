@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "System.Domain": {
+      "commandName": "Executable"
+    }
+  }
+}

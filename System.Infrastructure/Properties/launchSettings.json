@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "System.Infrastructure": {
+      "commandName": "Executable"
+    }
+  }
+}

@@ -1,0 +1,447 @@
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Online-Store.UI.exe
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Online-Store.UI.deps.json
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Online-Store.UI.runtimeconfig.json
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Online-Store.UI.runtimeconfig.dev.json
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Online-Store.UI.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Online-Store.UI.pdb
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Online-Store.UI.Views.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Online-Store.UI.Views.pdb
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\OSPI.Inventory.Domain.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\OSPI.Inventory.Infrastructure.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\OSPI.Inventory.Infrastructure.pdb
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\OSPI.Inventory.Domain.pdb
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.csprojAssemblyReference.cache
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\staticwebassets\Online-Store.UI.StaticWebAssets.Manifest.cache
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\staticwebassets\Online-Store.UI.StaticWebAssets.xml
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.RazorAssemblyInfo.cache
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.RazorAssemblyInfo.cs
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.AssemblyInfoInputs.cache
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.AssemblyInfo.cs
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.TagHelpers.input.cache
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.TagHelpers.output.cache
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.RazorCoreGenerate.cache
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category1\Create.cshtml.g.cs
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category1\Delete.cshtml.g.cs
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category1\Details.cshtml.g.cs
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category1\Edit.cshtml.g.cs
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category1\Index.cshtml.g.cs
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.RazorTargetAssemblyInfo.cache
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.RazorTargetAssemblyInfo.cs
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.Views.pdb
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.csproj.CopyComplete
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.dll
+C:\Projects\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.pdb
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Online-Store.UI.exe
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Online-Store.UI.deps.json
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Online-Store.UI.runtimeconfig.json
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Online-Store.UI.runtimeconfig.dev.json
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Online-Store.UI.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Online-Store.UI.pdb
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Online-Store.UI.Views.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Online-Store.UI.Views.pdb
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\OSPI.Inventory.Domain.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\OSPI.Inventory.Infrastructure.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\OSPI.Inventory.Infrastructure.pdb
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\bin\Debug\netcoreapp3.1\OSPI.Inventory.Domain.pdb
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.csprojAssemblyReference.cache
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\staticwebassets\Online-Store.UI.StaticWebAssets.Manifest.cache
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\staticwebassets\Online-Store.UI.StaticWebAssets.xml
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.RazorAssemblyInfo.cache
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.RazorAssemblyInfo.cs
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.AssemblyInfoInputs.cache
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.AssemblyInfo.cs
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.TagHelpers.input.cache
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.TagHelpers.output.cache
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.RazorCoreGenerate.cache
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category1\Create.cshtml.g.cs
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category1\Delete.cshtml.g.cs
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category1\Details.cshtml.g.cs
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category1\Edit.cshtml.g.cs
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category1\Index.cshtml.g.cs
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.RazorTargetAssemblyInfo.cache
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.RazorTargetAssemblyInfo.cs
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.Views.pdb
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.csproj.CopyComplete
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.dll
+C:\Users\benedictos\Source\Repos\OSPI-Integrated-Systems\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.pdb
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Online-Store.UI.exe
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Online-Store.UI.deps.json
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Online-Store.UI.runtimeconfig.json
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Online-Store.UI.runtimeconfig.dev.json
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Online-Store.UI.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Online-Store.UI.pdb
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Online-Store.UI.Views.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Online-Store.UI.Views.pdb
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Domain.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Infrastructure.dll
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Infrastructure.pdb
+C:\Projects\Integrated System\Online-Store.UI\bin\Debug\netcoreapp3.1\System.Domain.pdb
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.csprojAssemblyReference.cache
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\staticwebassets\Online-Store.UI.StaticWebAssets.Manifest.cache
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\staticwebassets\Online-Store.UI.StaticWebAssets.xml
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.RazorAssemblyInfo.cache
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.RazorAssemblyInfo.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.AssemblyInfoInputs.cache
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.AssemblyInfo.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.TagHelpers.input.cache
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.TagHelpers.output.cache
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.RazorCoreGenerate.cache
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category1\Create.cshtml.g.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category1\Delete.cshtml.g.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category1\Details.cshtml.g.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category1\Edit.cshtml.g.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category1\Index.cshtml.g.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category2\Create.cshtml.g.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category2\Delete.cshtml.g.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category2\Details.cshtml.g.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category2\Edit.cshtml.g.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category2\Index.cshtml.g.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category3\Create.cshtml.g.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category3\Delete.cshtml.g.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category3\Details.cshtml.g.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category3\Edit.cshtml.g.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Category3\Index.cshtml.g.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.RazorTargetAssemblyInfo.cache
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.RazorTargetAssemblyInfo.cs
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.Views.pdb
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.csproj.CopyComplete
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.dll
+C:\Projects\Integrated System\Online-Store.UI\obj\Debug\netcoreapp3.1\Online-Store.UI.pdb
