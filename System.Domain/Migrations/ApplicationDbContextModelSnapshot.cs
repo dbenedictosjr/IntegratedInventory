@@ -176,7 +176,7 @@ namespace System.Domain.Migrations
                     b.Property<double>("MaxStock")
                         .HasColumnType("float");
 
-                    b.Property<double>("Mintock")
+                    b.Property<double>("MinStock")
                         .HasColumnType("float");
 
                     b.Property<double>("Price")

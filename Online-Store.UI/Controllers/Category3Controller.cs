@@ -72,13 +72,13 @@ namespace Online_Store.UI.Controllers
                 return NotFound();
             }
 
-            var Category3 = await _Category3Service.GetByIDAsync(id);
-            if (Category3 == null)
+            var category3 = await _Category3Service.GetByIDAsync(id);
+            if (category3 == null)
             {
                 return NotFound();
             }
             ViewData["Category2"] = new SelectList(await _Category2Service.GetAllAsync(), "ID", "Description");
-            return View(Category3);
+            return View(category3);
         }
 
         // POST: Category3/Edit/5
@@ -104,6 +104,7 @@ namespace Online_Store.UI.Controllers
                 {
                     ViewBag.Message = "Record has been modified by someone else.";
                 }
+                return RedirectToAction(nameof(Index));
             }
             ViewData["Category2"] = new SelectList(await _Category2Service.GetAllAsync(), "ID", "Description");
             return View(Category3);

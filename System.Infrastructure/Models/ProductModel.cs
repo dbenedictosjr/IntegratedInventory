@@ -14,32 +14,38 @@ namespace System.Infrastructure.Models
         public string Code { get; set; }
 
         [StringLength(40, ErrorMessage = "Limit Short Description to 40 characters.")]
-        public string Short_Description { get; set; }
+        [Display(Name = "Short Description")]
+        public string ShortDesc { get; set; }
 
         [StringLength(100, ErrorMessage = "Limit Long Description to 100 characters.")]
-        public string Long_Description { get; set; }
+        [Display(Name = "Long Description")]
+        public string LongDesc { get; set; }
 
         [Required]
-        [Display(Name = "Third Category")]
+        [Display(Name = "Category")]
         public Guid Cat3ID { get; set; }
 
         [Required]
-        public double Minimum_tock { get; set; }
+        [Display(Name = "Minimum Stock")]
+        public double MinStock { get; set; }
 
         [Required]
-        public double Maximum_Stock { get; set; }
+        [Display(Name = "Maximum Stock")]
+        public double MaxStock { get; set; }
 
         [Required]
-        public double Product_Cost { get; set; }
+        public double Cost { get; set; }
 
         [Required]
-        public double? Markup_Amount { get; set; }
+        [Display(Name = "Markup Amount")]
+        public double? MarkupAmount { get; set; }
 
         [Required]
-        public double? Markup_Percentage { get; set; }
+        [Display(Name = "Markup Percent")]
+        public double? MarkupPercent { get; set; }
 
         [Required]
-        public double Product_Price { get; set; }
+        public double Price { get; set; }
 
         [Required]
         public bool? Vatable { get; set; }
@@ -53,7 +59,7 @@ namespace System.Infrastructure.Models
         [Required]
         public bool? Active { get; set; }
 
-        [Display(Name = "Third Category")]
+        [Display(Name = "Category")]
         public string Cat3Description { get; set; }
 
         public byte[] RowVersion { get; set; }

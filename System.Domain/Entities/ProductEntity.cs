@@ -21,7 +21,7 @@ namespace System.Domain.Entities
 
         public Guid Cat3ID { get; set; }
 
-        public double Mintock { get; set; }
+        public double MinStock { get; set; }
 
         public double MaxStock { get; set; }
 

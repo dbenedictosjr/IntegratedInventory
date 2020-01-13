@@ -18,10 +18,15 @@ namespace System.Domain.Repositories
             => await _context.Set<TEntity>().ToListAsync();
 
         public virtual async Task<TEntity> GetByIDAsync(Guid? id)
-            => await _context.Set<TEntity>().FindAsync(id);
+        {
+            return await _context.Set<TEntity>().FindAsync(id);
+        }
 
         public void Create(TEntity entity)
-            => _context.Set<TEntity>().AddAsync(entity);
+        {
+            _context.Entry<TEntity>(entity).State = EntityState.Added;
+            //_context.Set<TEntity>().AddAsync(entity);
+        }
 
         public void Update(TEntity entity)
         {
@@ -30,7 +35,10 @@ namespace System.Domain.Repositories
         }
 
         public void Delete(TEntity entity)
-            => _context.Set<TEntity>().Remove(entity);
+        {
+            _context.Entry<TEntity>(entity).State = EntityState.Deleted;
+            //_context.Set<TEntity>().Remove(entity);
+        }
 
         public async Task SaveAsync()
             => await _context.SaveChangesAsync();

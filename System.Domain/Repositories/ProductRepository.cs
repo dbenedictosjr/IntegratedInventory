@@ -18,5 +18,9 @@ namespace System.Domain.Repositories
            .Include(a => a.Category3)
            .ToListAsync();
         }
+
+        public override async Task<ProductEntity> GetByIDAsync(Guid? id) => await _context.Set<ProductEntity>()
+            .Include(a => a.Category3)
+            .FirstOrDefaultAsync(a => a.ProdID == id);
     }
 }

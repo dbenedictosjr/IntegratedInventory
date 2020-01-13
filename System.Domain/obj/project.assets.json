@@ -4955,11 +4955,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Integrated System\\System.Domain\\System.Domain.csproj",
+      "projectUniqueName": "C:\\Projects\\IntegratedInventory\\System.Domain\\System.Domain.csproj",
       "projectName": "System.Domain",
-      "projectPath": "C:\\Projects\\Integrated System\\System.Domain\\System.Domain.csproj",
+      "projectPath": "C:\\Projects\\IntegratedInventory\\System.Domain\\System.Domain.csproj",
       "packagesPath": "C:\\Users\\d.t.benedictos.jr\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Integrated System\\System.Domain\\obj\\",
+      "outputPath": "C:\\Projects\\IntegratedInventory\\System.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

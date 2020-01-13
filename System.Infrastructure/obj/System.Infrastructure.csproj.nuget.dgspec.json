@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Integrated System\\System.Infrastructure\\System.Infrastructure.csproj": {}
+    "C:\\Projects\\IntegratedInventory\\System.Infrastructure\\System.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Integrated System\\System.Domain\\System.Domain.csproj": {
+    "C:\\Projects\\IntegratedInventory\\System.Domain\\System.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Integrated System\\System.Domain\\System.Domain.csproj",
+        "projectUniqueName": "C:\\Projects\\IntegratedInventory\\System.Domain\\System.Domain.csproj",
         "projectName": "System.Domain",
-        "projectPath": "C:\\Projects\\Integrated System\\System.Domain\\System.Domain.csproj",
+        "projectPath": "C:\\Projects\\IntegratedInventory\\System.Domain\\System.Domain.csproj",
         "packagesPath": "C:\\Users\\d.t.benedictos.jr\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Integrated System\\System.Domain\\obj\\",
+        "outputPath": "C:\\Projects\\IntegratedInventory\\System.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Projects\\Integrated System\\System.Infrastructure\\System.Infrastructure.csproj": {
+    "C:\\Projects\\IntegratedInventory\\System.Infrastructure\\System.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Integrated System\\System.Infrastructure\\System.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Projects\\IntegratedInventory\\System.Infrastructure\\System.Infrastructure.csproj",
         "projectName": "System.Infrastructure",
-        "projectPath": "C:\\Projects\\Integrated System\\System.Infrastructure\\System.Infrastructure.csproj",
+        "projectPath": "C:\\Projects\\IntegratedInventory\\System.Infrastructure\\System.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\d.t.benedictos.jr\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Integrated System\\System.Infrastructure\\obj\\",
+        "outputPath": "C:\\Projects\\IntegratedInventory\\System.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -97,8 +97,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projects\\Integrated System\\System.Domain\\System.Domain.csproj": {
-                "projectPath": "C:\\Projects\\Integrated System\\System.Domain\\System.Domain.csproj"
+              "C:\\Projects\\IntegratedInventory\\System.Domain\\System.Domain.csproj": {
+                "projectPath": "C:\\Projects\\IntegratedInventory\\System.Domain\\System.Domain.csproj"
               }
             }
           }

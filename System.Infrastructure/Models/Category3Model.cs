@@ -18,7 +18,6 @@ namespace System.Infrastructure.Models
         [StringLength(50, ErrorMessage = "Limit Description to 50 characters.")]
         public string Description { get; set; }
 
-        [Required]
         public string Image { get; set; }
 
         [Required]

@@ -1,0 +1,117 @@
+﻿@model IEnumerable<System.Infrastructure.Models.ProductModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Code)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ShortDesc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LongDesc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MinStock)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaxStock)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cost)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MarkupAmount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MarkupPercent)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vatable)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Barcode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Stock)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Active)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cat3Description)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Code)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ShortDesc)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LongDesc)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MinStock)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MaxStock)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cost)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MarkupAmount)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MarkupPercent)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Vatable)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Barcode)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Stock)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Active)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.RowVersion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Cat3Description)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
