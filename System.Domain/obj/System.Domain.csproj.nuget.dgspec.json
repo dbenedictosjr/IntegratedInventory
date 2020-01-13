@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\IntegratedInventory\\System.Domain\\System.Domain.csproj": {}
+    "G:\\2020\\Last Update\\System.Domain\\System.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\IntegratedInventory\\System.Domain\\System.Domain.csproj": {
+    "G:\\2020\\Last Update\\System.Domain\\System.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\IntegratedInventory\\System.Domain\\System.Domain.csproj",
+        "projectUniqueName": "G:\\2020\\Last Update\\System.Domain\\System.Domain.csproj",
         "projectName": "System.Domain",
-        "projectPath": "C:\\Projects\\IntegratedInventory\\System.Domain\\System.Domain.csproj",
-        "packagesPath": "C:\\Users\\d.t.benedictos.jr\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\IntegratedInventory\\System.Domain\\obj\\",
+        "projectPath": "G:\\2020\\Last Update\\System.Domain\\System.Domain.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "G:\\2020\\Last Update\\System.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\d.t.benedictos.jr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

@@ -20,3 +20,14 @@ C:\Projects\Integrated System\System.Infrastructure\obj\Debug\netcoreapp3.1\Syst
 C:\Projects\Integrated System\System.Infrastructure\obj\Debug\netcoreapp3.1\System.Infrastructure.csproj.CopyComplete
 C:\Projects\Integrated System\System.Infrastructure\obj\Debug\netcoreapp3.1\System.Infrastructure.dll
 C:\Projects\Integrated System\System.Infrastructure\obj\Debug\netcoreapp3.1\System.Infrastructure.pdb
+G:\2020\Last Update\System.Infrastructure\bin\Debug\netcoreapp3.1\System.Infrastructure.deps.json
+G:\2020\Last Update\System.Infrastructure\bin\Debug\netcoreapp3.1\System.Infrastructure.dll
+G:\2020\Last Update\System.Infrastructure\bin\Debug\netcoreapp3.1\System.Infrastructure.pdb
+G:\2020\Last Update\System.Infrastructure\bin\Debug\netcoreapp3.1\System.Domain.dll
+G:\2020\Last Update\System.Infrastructure\bin\Debug\netcoreapp3.1\System.Domain.pdb
+G:\2020\Last Update\System.Infrastructure\obj\Debug\netcoreapp3.1\System.Infrastructure.csprojAssemblyReference.cache
+G:\2020\Last Update\System.Infrastructure\obj\Debug\netcoreapp3.1\System.Infrastructure.AssemblyInfoInputs.cache
+G:\2020\Last Update\System.Infrastructure\obj\Debug\netcoreapp3.1\System.Infrastructure.AssemblyInfo.cs
+G:\2020\Last Update\System.Infrastructure\obj\Debug\netcoreapp3.1\System.Infrastructure.csproj.CopyComplete
+G:\2020\Last Update\System.Infrastructure\obj\Debug\netcoreapp3.1\System.Infrastructure.dll
+G:\2020\Last Update\System.Infrastructure\obj\Debug\netcoreapp3.1\System.Infrastructure.pdb

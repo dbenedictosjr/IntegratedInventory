@@ -16,3 +16,13 @@ C:\Projects\Integrated System\System.Domain\obj\Debug\netcoreapp3.1\System.Domai
 C:\Projects\Integrated System\System.Domain\obj\Debug\netcoreapp3.1\System.Domain.AssemblyInfo.cs
 C:\Projects\Integrated System\System.Domain\obj\Debug\netcoreapp3.1\System.Domain.dll
 C:\Projects\Integrated System\System.Domain\obj\Debug\netcoreapp3.1\System.Domain.pdb
+G:\2020\Last Update\System.Domain\bin\Debug\netcoreapp3.1\System.Domain.deps.json
+G:\2020\Last Update\System.Domain\bin\Debug\netcoreapp3.1\System.Domain.runtimeconfig.json
+G:\2020\Last Update\System.Domain\bin\Debug\netcoreapp3.1\System.Domain.runtimeconfig.dev.json
+G:\2020\Last Update\System.Domain\bin\Debug\netcoreapp3.1\System.Domain.dll
+G:\2020\Last Update\System.Domain\bin\Debug\netcoreapp3.1\System.Domain.pdb
+G:\2020\Last Update\System.Domain\obj\Debug\netcoreapp3.1\System.Domain.csprojAssemblyReference.cache
+G:\2020\Last Update\System.Domain\obj\Debug\netcoreapp3.1\System.Domain.AssemblyInfoInputs.cache
+G:\2020\Last Update\System.Domain\obj\Debug\netcoreapp3.1\System.Domain.AssemblyInfo.cs
+G:\2020\Last Update\System.Domain\obj\Debug\netcoreapp3.1\System.Domain.dll
+G:\2020\Last Update\System.Domain\obj\Debug\netcoreapp3.1\System.Domain.pdb

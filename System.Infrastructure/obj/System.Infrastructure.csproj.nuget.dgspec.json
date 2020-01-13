@@ -1,24 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\IntegratedInventory\\System.Infrastructure\\System.Infrastructure.csproj": {}
+    "G:\\2020\\Last Update\\System.Infrastructure\\System.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\IntegratedInventory\\System.Domain\\System.Domain.csproj": {
+    "G:\\2020\\Last Update\\System.Domain\\System.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\IntegratedInventory\\System.Domain\\System.Domain.csproj",
+        "projectUniqueName": "G:\\2020\\Last Update\\System.Domain\\System.Domain.csproj",
         "projectName": "System.Domain",
-        "projectPath": "C:\\Projects\\IntegratedInventory\\System.Domain\\System.Domain.csproj",
-        "packagesPath": "C:\\Users\\d.t.benedictos.jr\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\IntegratedInventory\\System.Domain\\obj\\",
+        "projectPath": "G:\\2020\\Last Update\\System.Domain\\System.Domain.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "G:\\2020\\Last Update\\System.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\d.t.benedictos.jr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -71,21 +73,23 @@
         }
       }
     },
-    "C:\\Projects\\IntegratedInventory\\System.Infrastructure\\System.Infrastructure.csproj": {
+    "G:\\2020\\Last Update\\System.Infrastructure\\System.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\IntegratedInventory\\System.Infrastructure\\System.Infrastructure.csproj",
+        "projectUniqueName": "G:\\2020\\Last Update\\System.Infrastructure\\System.Infrastructure.csproj",
         "projectName": "System.Infrastructure",
-        "projectPath": "C:\\Projects\\IntegratedInventory\\System.Infrastructure\\System.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\d.t.benedictos.jr\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\IntegratedInventory\\System.Infrastructure\\obj\\",
+        "projectPath": "G:\\2020\\Last Update\\System.Infrastructure\\System.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "G:\\2020\\Last Update\\System.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\d.t.benedictos.jr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -97,8 +101,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projects\\IntegratedInventory\\System.Domain\\System.Domain.csproj": {
-                "projectPath": "C:\\Projects\\IntegratedInventory\\System.Domain\\System.Domain.csproj"
+              "G:\\2020\\Last Update\\System.Domain\\System.Domain.csproj": {
+                "projectPath": "G:\\2020\\Last Update\\System.Domain\\System.Domain.csproj"
               }
             }
           }
