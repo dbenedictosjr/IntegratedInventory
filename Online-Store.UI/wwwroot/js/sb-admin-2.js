@@ -1,7 +1,11 @@
 $(function() {
 
     $('#side-menu').metisMenu();
-    $('.table').dataTable();
+    $('.table').dataTable({
+
+    });
+         
+    
 });
 
 //Loads the correct sidebar on window load,
