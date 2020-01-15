@@ -56,11 +56,11 @@ namespace Online_Store.UI.Controllers
         public async Task<IActionResult> Create([Bind("ID,Code,ShortDesc,LongDesc,Cat3ID,MinStock,MaxStock,Cost,MarkupAmount,MarkupPercent,Price,Vatable,Barcode,Stock,Active")] ProductModel Product)
 
         {
-            if (ModelState.IsValid)
-            {
+            //if (ModelState.IsValid)
+            //{
                 await _ProductService.CreateAsync(Product);
                 return RedirectToAction(nameof(Index));
-            }
+            //}
             ViewData["Category3"] = new SelectList(await _Category3Service.GetAllAsync(), "ID", "Description");
             return View(Product);
         }

@@ -1,11 +1,42 @@
 $(function() {
 
-    $('#side-menu').metisMenu();
-    $('.table').dataTable({
-
+    $('#side-menu').metisMenu(); 
+     //* Start Region for Category1 Table*
+    $('#tbl_category1').dataTable({
+        responsive: true
+        
     });
-         
+    $("#chkcat1_all").click(function () { 
+        $('#tbl_category1 tbody input[type="checkbox"]').prop('checked', this.checked);
+    });
+    //*End Region for Category1 Table*
+    //* Start Region for Category2 Table*
+    $('#tbl_category2').dataTable({
+        responsive: true
+    });
+    $("#chkcat2_all").click(function () {
+        $('#tbl_category2 tbody input[type="checkbox"]').prop('checked', this.checked);
+    });
+    //*End Region for Category2 Table*
+
+    //* Start Region for Category3 Table*
+    $('#tbl_category3').dataTable({
+        responsive: true
+    });
+    $("#chkcat3_all").click(function () {
+        $('#tbl_category3 tbody input[type="checkbox"]').prop('checked', this.checked);
+    });
+    //*End Region for Category3 Table*
+    //* Start Region for Category3 Table*
+    $('#tbl_product').dataTable({
+       
+    });
     
+    $("#chkpro_all").click(function () {
+        $('#tbl_product tbody input[type="checkbox"]').prop('checked', this.checked);
+    });
+    //*End Region for Category3 Table*
+
 });
 
 //Loads the correct sidebar on window load,
